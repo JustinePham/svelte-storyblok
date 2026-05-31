@@ -1,0 +1,1 @@
+import{_ as e,y as t}from"../chunks/0BTcN-2e.js";import"../chunks/xihTtKlq.js";import"../chunks/kND8e2Is.js";var n=t(`<p>This is the about page</p>`);function r(t){e(t,n())}export{r as component};

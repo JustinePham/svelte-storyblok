@@ -1,0 +1,1 @@
+import{B as e}from"./0BTcN-2e.js";e();

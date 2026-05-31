@@ -1,0 +1,1 @@
+export const env={"PUBLIC_REGION":"eu","PUBLIC_STORYBLOK_TOKEN":"cuXvxTmX8jzO8rxiWxQDLAtt"}
